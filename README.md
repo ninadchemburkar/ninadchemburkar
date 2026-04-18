@@ -2,7 +2,7 @@
 
 AWS DevOps Engineer transitioning into MLOps and AI Automation. I've spent the last 4+ years building and migrating enterprise infrastructure on AWS — the highlight being a full migration of 320+ on-premises servers with minimal downtime. Lately I've been going deep into AI agent architecture and shipping real tools with it.
 
-Currently based in Mumbai, open to roles in the US, UAE, Singapore, and Canada.
+Currently based in Mumbai, Open to opportunities worldwide.
 
 ---
 
