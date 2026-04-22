@@ -40,11 +40,13 @@ Built with CrewAI, Claude API, and Streamlit. Live at [devops-crew-ai.streamlit.
 
 **DevOps & CI/CD** — Docker, Kubernetes, ArgoCD, Jenkins, GitHub Actions
 
+**Frontend** — React, Next.js, Tailwind CSS, Framer Motion
+
 **AI & Agents** — CrewAI, Claude API, LangChain, Streamlit
 
 **Monitoring & Security** — CloudWatch, ELK Stack, Prometheus, Grafana, IAM, KMS
 
-**Languages** — Python, Bash, PowerShell, JavaScript, Node.js
+**Languages** — Python, Bash, PowerShell, JavaScript, TypeScript, Node.js
 
 ---
 
